@@ -151,7 +151,3 @@ These results indicate that the dynamic pricing framework improves revenue effic
 - the monitoring agent shows measurable changes in utilization and queue proxies
 - the demand prediction models fit the data very well with high R² values
 
----
-├── offpeak_vs_normal_period.png
-├── waiting_time_proxy_before_vs_after.png
-└── output files
